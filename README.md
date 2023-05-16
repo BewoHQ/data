@@ -1,2 +1,2 @@
-# data
-Bewo's data repository
+# Bewo Data
+This repo contains data that required for Bewo
