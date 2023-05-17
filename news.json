@@ -1,0 +1,16 @@
+{
+    "news": [
+        {
+            "type": "FIX",
+            "content": "fixed lunar clients fps"
+        },
+        {
+            "type": "UPDATE",
+            "content": "updated watchdog"
+        },
+        {
+            "type": "NEW",
+            "content": "deleted watchdog"
+        }
+    ] 
+}
